@@ -16,3 +16,7 @@ A simple web application for you to learn more about your friends and connect wi
 ### Display Profile
 - Click *Male* or *Female* button to filter profiles
 - Click *Random Pick* button to find 4 random profiles to connect
+
+## Website Display
+ [GitHub page](https://smallpaes.github.io/social-page/)
+ ![image](https://drive.google.com/uc?export=view&id=1XkLsaKY8lT-ZQwcMU0hdfoF5rvjcL234)
